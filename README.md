@@ -7,14 +7,14 @@ how to run:
 2. Run file named "main.py"
 
 Controls:
-Player 1 (left)
-left: A
-right: D
-jump: W
-attack: m or n
+1. Player 1 (left)
+2. left: A
+3. right: D
+4. jump: W
+5. attack: m or n
 
 Player 2 (right)
-left: arrow left
-right: arrow right
-jump: arrow up
-attack: z and x
+1. left: arrow left
+2. right: arrow right
+3. jump: arrow up
+4. attack: z and x
