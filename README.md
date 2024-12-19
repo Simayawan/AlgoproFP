@@ -20,5 +20,5 @@ Player 2 (right)
 4. attack: z and x
 
 References:
-As I didn't made this code I'll special thanks to Coding with Russ for teaching me how to make this game.
+As I didn't made this code I'll give special thanks to Coding with Russ for teaching me how to make this game.
 This is the link of the game tutorial https://www.youtube.com/watch?v=s5bd9KMSSW4&t=6868s
